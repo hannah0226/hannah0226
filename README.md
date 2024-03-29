@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=F9E79F&text=I'm%20Hannah%20Lee%20&fontColor=FDFEFE&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F9E79F&text=Hi%20I'm%20Hannah%20&fontColor=FDFEFE&fontSize=40&animation=twinkling)
 
 ## ✨About me
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah0226&count_private=true&show_icons=true&theme=solarized-light)
