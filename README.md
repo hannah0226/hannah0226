@@ -15,14 +15,14 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellij-IDEA&logoColor=white"/>
 
 ## 🔭Activities
-(2024.03 ~ )  이화여자대학교 웹개발 커리어클럽 EFUB 4기 부회장
+(2024.03 ~ ) 이화여자대학교 웹개발 커리어클럽 EFUB 4기 부회장
 
 (2023.03 ~ 2023.12) 이화여자대학교 웹개발 커리어클럽 EFUB 3기 Backend 개발자
 
 (2022.08 ~ 2022.12) CJ SW 창의캠프 대학생 봉사단 CJ UNIT 7기
 
 ## 📋Projects
-(2024.08 ~ ) 이화여자대학교 PR 학회 EPRIS 웹사이트 외주 개발
+(2024.08 ~ ) 🌐 이화여자대학교 PR 학회 EPRIS 웹사이트 외주 개발
 
 (2024.03 ~ 2024.03) 🌸 이화여자대학교 청원 서비스 배울림꽃
 
