@@ -5,6 +5,7 @@
 
 ## ✏️Studying
 [![Tistory](https://img.shields.io/badge/Tistory-eb531f?style=flat&logo=Tistory&logoColor=white)](https://hannah-study.tistory.com/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@2hannah/posts)
 
 ## 💻Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
