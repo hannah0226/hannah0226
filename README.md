@@ -37,6 +37,7 @@
 
 ## 🏆Awards
 (2024.03) 이화여자대학교 제 1회 해커톤 [EWHA_THON] - 대상
+
 (2024.12) 2024 Ewha Engineering Capstone Design Contest 창업 아이디어 부문 - 금상
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F9E79F&height=150&section=footer)
