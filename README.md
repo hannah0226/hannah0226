@@ -1,19 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=F9E79F&text=Hi%20I'm%20Hannah%20&fontColor=FDFEFE&fontSize=40&animation=twinkling)
 
-## ✨About me
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah0226&count_private=true&show_icons=true&theme=solarized-light)
+<!-- ## ✨About me
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hannah0226&count_private=true&show_icons=true&theme=solarized-light) -->
 
 ## ✏️Studying
 [![Tistory](https://img.shields.io/badge/Tistory-eb531f?style=flat&logo=Tistory&logoColor=white)](https://hannah-study.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@2hannah/posts)
 
 ## 💻Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Amazon Redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+
+
 
 ## 🛠️Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellij-IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellij-IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=Docker&logoColor=white"/>
 
 ## 🔭Activities
 (2024.09 ~ 2024.12) 이화-아산 UniverCT Preneur 액셀러레이팅 Team.Xodid
